@@ -1,5 +1,11 @@
 # @blitzjs/generator
 
+## 2.0.0-alpha.54
+
+### Patch Changes
+
+- a961aff8: Add missing lint deps to the new app templates
+
 ## 2.0.0-alpha.53
 
 ## 2.0.0-alpha.52
